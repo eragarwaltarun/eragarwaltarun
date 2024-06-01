@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://github.com/Anshuman2121/Anshuman2121/blob/main/cover.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="cover" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Tarun Agarwal</h1>
@@ -26,7 +26,7 @@
 
 - 📥 How to reach me: **eragarwaltarun@gmail.com**
 
- <h2> Languages and tools ⚙️ </h2>
+ <h2> Languages and Tools ⚙️ </h2>
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP Logo" width="50" height="50"/>
