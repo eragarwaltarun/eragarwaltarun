@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="cover" />
+<img width="100%" height = "250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fantsitvlad.medium.com%2Fdevops-101-all-kind-of-you-need-to-know-about-devops-5bfca8656987&psig=AOvVaw1pBGrCfLgCT3s9wSIsovpk&ust=1717358654589000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiG59yZu4YDFQAAAAAdAAAAABAE)" alt="cover" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Tarun Agarwal</h1>
