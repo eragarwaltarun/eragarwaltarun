@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif" alt="cover" />
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif)
 </div>
 
 <h1 align="center">Hi 👋, I'm Tarun Agarwal</h1>
