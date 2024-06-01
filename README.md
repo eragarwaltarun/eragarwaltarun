@@ -2,13 +2,14 @@
 <img width="100%" height = "250px" src="https://github.com/Anshuman2121/Anshuman2121/blob/main/cover.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<h1 align="center">Hi 👋, I'm Tarun Agarwal</h1>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eragarwaltarun)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eragarwaltarun&label=Profile%20views&color=0e75b6&style=flat" alt="eragarwaltarun" /> </p>
 
 </p>
-<div size='20px'> Hi! My name is Tarun Agarwal. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> I am currently looking for opportunities as a DevOps Engineer. Thank You for taking the time to view my GitHub Profile! :smile: 
 </div>
 
 <h2> About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
