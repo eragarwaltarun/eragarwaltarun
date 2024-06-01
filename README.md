@@ -9,11 +9,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eragarwaltarun&label=Profile%20views&color=0e75b6&style=flat" alt="eragarwaltarun" /> </p>
 
 </p>
-<div size='20px'> I am currently looking for opportunities as a DevOps Engineer.
-                  Thank You for taking the time to view my GitHub Profile! :smile: 
+<div size='20px'> Thank You for taking the time to view my GitHub Profile! :smile: 
 </div>
 
 <h2> About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 - 💻 I’m a **DevOps enthusiast.**
@@ -46,12 +47,6 @@
 <a href = 'https://x.com/heyagarwal'> <img width = '32px' align= 'center' src="logo.svg"/></a> 
 <a href = 'https://x.com/heyagarwal'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/instagram.svg"/></a> 
 
-
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
-<br>
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
