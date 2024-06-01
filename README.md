@@ -35,7 +35,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg alt="GIT Logo" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" idth="50" height="50"/> 
