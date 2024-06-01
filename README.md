@@ -26,7 +26,9 @@
 
 - 📥 How to reach me: **eragarwaltarun@gmail.com**
 
- <h2> Languages and Tools ⚙️ </h2>
+
+
+ <h2> Languages and tools ⚙️ </h2>
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP Logo" width="50" height="50"/>
@@ -41,8 +43,9 @@
 
 <h2> Connect with me <img src='https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif?cid=ecf05e47op58k874i9g3yungla1kpc91r3ia5jqho8x3k5iw&rid=giphy.gif&ct=s' width="50px"> </h2>
 <a href = 'https://www.linkedin.com/in/eragarwaltarun'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/></a> 
-<a href = 'https://x.com/heyagarwal'> <img width = '32px' align= 'center' src="logo.svg"/></a> 
-<a href = 'https://x.com/heyagarwal'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/instagram.svg"/></a> 
+<a href="https://www.facebook.com/itzzmetarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itzzmetarun" height="30" width="40" /></a>
+<a href="https://www.facebook.com/itzzmetarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itzzmetarun" height="30" width="40" /></a>
+<a href="https://instagram.com/heyagarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyagarwal" height="30" width="40" /></a>
 
 
 
