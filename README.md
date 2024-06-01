@@ -26,13 +26,6 @@
 
 - 📥 How to reach me: **eragarwaltarun@gmail.com**
 
-
-
-
-
-
-
-
  <h2> Languages and tools ⚙️ </h2>
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/>
